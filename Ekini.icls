@@ -5,12 +5,15 @@
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
+    <option name="ANNOTATIONS_COLOR" value="558aa9" />
+    <option name="ANNOTATIONS_MERGED_COLOR" value="6f6f" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="272727" />
     <option name="FILESTATUS_ADDED" value="93b3a3" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="709080" />
     <option name="FILESTATUS_MODIFIED" value="f8f893" />
     <option name="FILESTATUS_UNKNOWN" value="cc9393" />
+    <option name="FILESTATUS_modifiedOutside" value="4276e4" />
     <option name="GUTTER_BACKGROUND" value="3f3f3f" />
     <option name="INDENT_GUIDE" value="333333" />
     <option name="LINE_NUMBERS_COLOR" value="d2d39b" />
@@ -1212,13 +1215,13 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="dbdbcb" />
+        <option name="FOREGROUND" value="80e5e8" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="e89393" />
+        <option name="FOREGROUND" value="d48f8c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1251,7 +1254,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="efdcbc" />
+        <option name="FOREGROUND" value="98d761" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
