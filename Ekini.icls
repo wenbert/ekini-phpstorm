@@ -465,9 +465,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="EL_BACKGROUND">
-      <value />
-    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d48f8c" />
@@ -582,7 +579,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="efdcbc" />
+        <option name="FOREGROUND" value="efdf14" />
+        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -766,9 +765,6 @@
         <option name="FOREGROUND" value="6f8f7f" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="JSP_DIRECTIVE_BACKGROUND">
-      <value />
     </option>
     <option name="JSP_DIRECTIVE_NAME">
       <value>
@@ -1060,9 +1056,6 @@
         <option name="BACKGROUND" value="284f28" />
       </value>
     </option>
-    <option name="SMARTY_BACKGROUND">
-      <value />
-    </option>
     <option name="SMARTY_COMMENT">
       <value>
         <option name="FOREGROUND" value="6f8f7f" />
@@ -1135,7 +1128,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="dfdfdf" />
+        <option name="FOREGROUND" value="df2f01" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -1198,14 +1191,16 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="efdcbc" />
+        <option name="FOREGROUND" value="efdf14" />
+        <option name="EFFECT_COLOR" value="ffffff" />
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f8f893" />
-        <option name="BACKGROUND" value="385f38" />
+        <option name="FOREGROUND" value="f5f809" />
+        <option name="BACKGROUND" value="195f1f" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
