@@ -4,7 +4,7 @@
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="" />
+    <option name="ADDED_LINES_COLOR" value="ffffff" />
     <option name="ANNOTATIONS_COLOR" value="558aa9" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="6f6f" />
     <option name="CARET_COLOR" value="ffffff" />
