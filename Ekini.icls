@@ -5,19 +5,20 @@
   <option name="CONSOLE_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="ffffff" />
+    <option name="ADDED_LINES_COLOR" value="86d762" />
     <option name="ANNOTATIONS_COLOR" value="558aa9" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="6f6f" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="272727" />
+    <option name="DELETED_LINES_COLOR" value="9f7b9d" />
     <option name="FILESTATUS_ADDED" value="93b3a3" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="709080" />
     <option name="FILESTATUS_MODIFIED" value="f8f893" />
     <option name="FILESTATUS_UNKNOWN" value="cc9393" />
     <option name="FILESTATUS_modifiedOutside" value="4276e4" />
     <option name="GUTTER_BACKGROUND" value="3f3f3f" />
-    <option name="INDENT_GUIDE" value="333333" />
-    <option name="LINE_NUMBERS_COLOR" value="d2d39b" />
+    <option name="INDENT_GUIDE" value="3e3e3e" />
+    <option name="LINE_NUMBERS_COLOR" value="a4a4a4" />
     <option name="RIGHT_MARGIN_COLOR" value="8a8a8a" />
     <option name="SELECTED_INDENT_GUIDE" value="f0efd0" />
     <option name="SELECTION_BACKGROUND" value="484848" />
@@ -569,7 +570,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="e3ceab" />
+        <option name="FOREGROUND" value="86d762" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -1083,8 +1084,7 @@
     </option>
     <option name="SQL_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f0dfaf" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="5d99b9" />
       </value>
     </option>
     <option name="SQL_NUMBER">
