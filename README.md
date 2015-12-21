@@ -1,6 +1,8 @@
 # Ekini phpStorm Color Scheme
 Based on https://github.com/negativefix/zenburn - you get the general Zenburn feel but with a bit more color. 
 
+A dark color scheme good for low-light and bright environments.
+
 # Installation
 1. Download the `Ekini.icls` file
 2. Paste it inside the phpStorm Preferences directory. e.g.: `/Users/wenbert/Library/Preferences/WebIde90/colors`
@@ -10,4 +12,13 @@ Based on https://github.com/negativefix/zenburn - you get the general Zenburn fe
 # Preview
 The name of the font is "Menlo".
 
-![Ekini Screenshot](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_01.png)
+![Ekini Screenshot 1](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_01.png)
+
+![Ekini Screenshot 2](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_02.png)
+
+![Ekini Screenshot 3](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_03.png)
+
+![Ekini Screenshot 4](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_04.png)
+
+
+
