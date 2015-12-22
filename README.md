@@ -9,8 +9,10 @@ A dark color scheme good for low-light and bright environments.
 3. Enable in phpStorm Preferences. `Editor > Colors & Fonts` 
 4. Select "Ekini" then Apply
 
-# Preview
+# Previews
 The name of the font is "Menlo".
+
+![Ekini Screenshot 0](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_00.png)
 
 ![Ekini Screenshot 1](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_01.png)
 
