@@ -12,15 +12,15 @@ A dark color scheme good for low-light and bright environments.
 # Previews
 The name of the font is "Menlo".
 
-![Ekini Screenshot 0](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_00.png)
+![Ekini Screenshot 0](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_00.png?1)
 
-![Ekini Screenshot 1](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_01.png)
+![Ekini Screenshot 1](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_01.png?1)
 
-![Ekini Screenshot 2](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_02.png)
+![Ekini Screenshot 2](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_02.png?1)
 
-![Ekini Screenshot 3](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_03.png)
+![Ekini Screenshot 3](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_03.png?1)
 
-![Ekini Screenshot 4](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_04.png)
+![Ekini Screenshot 4](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_04.png?1)
 
 
 
