@@ -12,7 +12,7 @@
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="272727" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
-    <option name="DELETED_LINES_COLOR" value="9f7b9d" />
+    <option name="DELETED_LINES_COLOR" value="9f7372" />
     <option name="FILESTATUS_ADDED" value="93b3a3" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="709080" />
     <option name="FILESTATUS_MODIFIED" value="f8f893" />
@@ -277,7 +277,7 @@
       <value>
         <option name="FOREGROUND" value="9f7b9d" />
         <option name="BACKGROUND" value="232323" />
-        <option name="EFFECT_COLOR" value="ff" />
+        <option name="EFFECT_COLOR" value="9f7b9d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
