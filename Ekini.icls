@@ -1,10 +1,17 @@
 <scheme name="Ekini" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.11" />
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-03-06T10:46:28</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.3.4.0.0</property>
+    <property name="modified">2018-03-06T10:46:35</property>
+    <property name="originalScheme">Ekini</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="10" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Droid Sans Mono for Powerline" />
+  <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono for Powerline" />
+  <option name="CONSOLE_LINE_SPACING" value="1.11" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="86d762" />
     <option name="ANNOTATIONS_COLOR" value="558aa9" />
@@ -48,6 +55,11 @@
       <value>
         <option name="FOREGROUND" value="e37170" />
         <option name="BACKGROUND" value="644040" />
+      </value>
+    </option>
+    <option name="BLADE_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="81b6d7" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -337,6 +349,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="41bcff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="7f9f7f" />
@@ -378,6 +396,12 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value />
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="518eff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
@@ -451,6 +475,14 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="cc9393" />
+      </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value />
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="FOREGROUND" value="4d78b1" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -1045,6 +1077,11 @@
       <value>
         <option name="FOREGROUND" value="dedede" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="REST.FIXED">
+      <value>
+        <option name="FOREGROUND" value="41bcff" />
       </value>
     </option>
     <option name="SASS_ATTRIBUTE">

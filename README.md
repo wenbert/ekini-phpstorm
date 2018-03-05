@@ -4,6 +4,18 @@ Based on https://github.com/negativefix/zenburn - you get the general Zenburn fe
 A dark color scheme good for low-light and bright environments.
 
 # Installation
+1. Go to PhpStorm `Preferences`
+2. Click on `Editor`
+3. Click on `Color Scheme`
+4. Click on the "gear" icon
+5. Select `Import Scheme` and browse for `Ekini.icls` file.
+
+![Ekini Screenshot 5](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_05.png?1)
+
+## Optional: Install Powerline fonts
+See https://github.com/powerline/fonts
+
+## Old Installation
 1. Download the `Ekini.icls` file
 2. Paste it inside the phpStorm Preferences directory. e.g.: `/Users/wenbert/Library/Preferences/WebIde90/colors`
 3. Enable in phpStorm Preferences. `Editor > Colors & Fonts` 
