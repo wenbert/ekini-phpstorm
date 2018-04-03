@@ -1,10 +1,10 @@
 <scheme name="Ekini" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-03-07T21:02:42</property>
+    <property name="created">2018-04-04T09:56:42</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-07T21:02:52</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-04-04T09:56:47</property>
     <property name="originalScheme">Ekini</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -14,8 +14,9 @@
   <option name="CONSOLE_LINE_SPACING" value="1.11" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="86d762" />
-    <option name="ANNOTATIONS_COLOR" value="1e1e1e" />
+    <option name="ANNOTATIONS_COLOR" value="0" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="6f6f" />
+    <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="1d1d1d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -29,15 +30,16 @@
     <option name="INDENT_GUIDE" value="3e3e3e" />
     <option name="LINE_NUMBERS_COLOR" value="a4a4a4" />
     <option name="MODIFIED_LINES_COLOR" value="8091e8" />
-    <option name="RIGHT_MARGIN_COLOR" value="8a8a8a" />
+    <option name="RIGHT_MARGIN_COLOR" value="555555" />
     <option name="SELECTED_INDENT_GUIDE" value="f0efd0" />
     <option name="SELECTION_BACKGROUND" value="59c900" />
     <option name="SELECTION_FOREGROUND" value="1f3f1f" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2f4477" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3382d1" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="747a85" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="9d69ff" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="5d8085" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="8256ff" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="532f5d" />
+    <option name="VISUAL_INDENT_GUIDE" value="575757" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="eda551" />
   </colors>
   <attributes>
@@ -517,26 +519,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="6c6c9c" />
-        <option name="ERROR_STRIPE_COLOR" value="8c8cbc" />
+        <option name="BACKGROUND" value="9c1e1d" />
+        <option name="ERROR_STRIPE_COLOR" value="9c1e1d" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="434545" />
-        <option name="ERROR_STRIPE_COLOR" value="454545" />
+        <option name="BACKGROUND" value="0" />
+        <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="1f3f1f" />
-        <option name="ERROR_STRIPE_COLOR" value="9ece9e" />
+        <option name="BACKGROUND" value="186619" />
+        <option name="ERROR_STRIPE_COLOR" value="186619" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="664b66" />
-        <option name="ERROR_STRIPE_COLOR" value="bc6c9c" />
+        <option name="BACKGROUND" value="c5690c" />
+        <option name="ERROR_STRIPE_COLOR" value="c5690c" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -1155,7 +1157,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1f3f1f" />
+        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="fffb00" />
       </value>
     </option>
@@ -1224,8 +1226,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffe0" />
-        <option name="BACKGROUND" value="284f28" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ed7e0e" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -1302,8 +1304,8 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f5f809" />
-        <option name="BACKGROUND" value="195f1f" />
+        <option name="FOREGROUND" value="10100" />
+        <option name="BACKGROUND" value="ed7e0e" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
