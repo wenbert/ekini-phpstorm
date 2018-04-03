@@ -10,8 +10,6 @@ A dark color scheme good for low-light and bright environments.
 4. Click on the "gear" icon
 5. Select `Import Scheme` and browse for `Ekini.icls` file.
 
-![Ekini Screenshot 5](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_05.png?1)
-
 ## Optional: Install Powerline fonts
 See https://github.com/powerline/fonts
 
@@ -22,7 +20,7 @@ See https://github.com/powerline/fonts
 4. Select "Ekini" then Apply
 
 # Previews
-The name of the font is "Menlo".
+The name of the font is "Droid Sans Mono Slashed for Powerline" (https://github.com/powerline/fonts).
 
 ![Ekini Screenshot 0](https://raw.githubusercontent.com/wenbert/ekini-phpstorm/master/screenshot_00.png?1)
 
