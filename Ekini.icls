@@ -1,17 +1,17 @@
 <scheme name="Ekini" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-04-04T09:56:42</property>
+    <property name="created">2018-05-21T13:37:30</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-04-04T09:56:47</property>
+    <property name="ideVersion">2018.1.4.0.0</property>
+    <property name="modified">2018-05-21T13:37:34</property>
     <property name="originalScheme">Ekini</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Droid Sans Mono Slashed for Powerline" />
-  <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono for Powerline" />
-  <option name="CONSOLE_LINE_SPACING" value="1.11" />
+  <option name="EDITOR_FONT_NAME" value="Roboto Mono for Powerline" />
+  <option name="CONSOLE_FONT_NAME" value="Roboto Mono for Powerline" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="86d762" />
     <option name="ANNOTATIONS_COLOR" value="0" />
@@ -189,7 +189,7 @@
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="8cd0d3" />
+        <option name="FOREGROUND" value="49a0d3" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -202,9 +202,14 @@
         <option name="FOREGROUND" value="e89393" />
       </value>
     </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b4b4b4" />
+      </value>
+    </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7e9e7e" />
+        <option name="FOREGROUND" value="429e48" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -214,7 +219,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="8cd0d3" />
+        <option name="FOREGROUND" value="96dfe2" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
@@ -677,8 +682,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="efdf14" />
-        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="BACKGROUND" value="5e5100" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1157,8 +1161,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="fffb00" />
+        <option name="BACKGROUND" value="5e5100" />
       </value>
     </option>
     <option name="SMARTY_COMMENT">
